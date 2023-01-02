@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @fortinux. EU based ICT Instructor, Scrum master, Consultant & Project Manager
+- 👋 Hi, I’m @fortinux. Project Manager | Scrum master | ICT Instructor
 - 👀 I’m interested in Big Data, Python Analytics, AI, Linux
 - 🌱 I’m currently learning Python, Machine Learning
 - 💞️ I’m looking to collaborate on projects regarding all of the above
